@@ -62,7 +62,6 @@ Final Project Proposal document.
 
 - Days	   Task
   - 1-2     Data collection via RAWG API
-  - 1–2	   Data collection via RAWG API
   - 3–4	   Data preprocessing and cleaning
   - 5–6	   Model training and evaluation
   - 7–9	   Develop Streamlit app with dynamic components
